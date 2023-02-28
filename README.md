@@ -13,7 +13,6 @@ trabalhar com o sistema ágil de desenvolvimento utilizando o Trello e figma.</p
 <li>Deve conter estes dados pessoais</li>
 <li>Biografia</li>
 <li>Deve ter uma seção de Hobbies e Soft Skills<l/i>
-<li>Soft Skills: Comunicação, liderança</li>
 <li>Deve ter uma seção de formações e cursos</li>
 <li>Deve ter uma seção de experiência em programação</li>
 <li>Deve ter um formulário</li>
