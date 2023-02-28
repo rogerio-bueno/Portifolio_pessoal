@@ -1,0 +1,85 @@
+.contactoform {
+    background-color: var(--background-blue);
+    padding: 2rem;
+    width: 100%;
+}
+
+.contactoform__container {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.contactoform__container__image {
+    margin-right: 1rem;
+    width: 360px;
+}
+
+.contactoform__container__form--title {
+    color: var(--color-title);
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.contactoform__container__form--text {
+    color: var(--color-paragraph);
+    font-weight: 500;
+    font-size: 1rem;
+    font-style: normal;
+}
+
+.contactoform__container__form__inputs--item,
+.contactoform__container__form__inputs--textarea {
+    background: var(--background-white);
+    border-radius: 4px;
+    padding: 1rem;
+    border: none;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 1rem;
+    filter: drop-shadow(0px 1px 1px rgba(0, 0, 0, 0.25));  
+    margin-top: 2rem;
+    outline-color: var(--background-blue);  
+    width: 100%;
+}
+
+.contactoform__container__form__inputs--span {
+    display: none;
+    color: #FF0000;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
+
+.contactoform__container__form__inputs--botao {
+    color: var(--color-text-white);
+    border: none;
+    background: var(--background-buttom-blue);
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 1rem;
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+.contactoform__container__form__inputs--botao:hover {
+    background: var(--color-hover-blue);  
+}
+
+@media screen and (max-width: 1023px) {
+
+    .contactoform__container__form--title {
+        text-align: center;
+        padding-bottom: 1rem;
+    }
+
+    .contactoform__container__image {
+        display: none;
+       
+    }
+
+    .contactoform__container__form__inputs--botao {
+       width: 100%;
+    }
+}
