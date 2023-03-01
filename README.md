@@ -23,3 +23,4 @@ trabalhar com o sistema ágil de desenvolvimento utilizando o Trello e figma.</p
 <li>Deve ter um rodapé com as informações da pessoa que desenvolveu o portfólio</li>
 </ul>
 <h3>Badge Exclusiva do Desafio:</h3>
+<img src="https://github.com/rogerio-bueno/Portifolio_pessoal/blob/main/assets/image/Badge%20Portifolio.png?raw=true"></img>
