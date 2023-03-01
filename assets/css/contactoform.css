@@ -68,7 +68,9 @@
 }
 
 @media screen and (max-width: 1023px) {
-
+    .contactoform__container, .contactoform {
+       padding: 1rem 0;
+    }
     .contactoform__container__form--title {
         text-align: center;
         padding-bottom: 1rem;
