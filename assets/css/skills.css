@@ -44,15 +44,3 @@
     font-size: 1rem;
     margin-top: 0.5rem;
 }
-
-@media screen and (max-width: 767px) {
-    .skills__container {
-        justify-content: center;  
-    }
-    .skills__box {
-        align-items: center;
-        justify-content: space-around;
-        width: 40%;       
-    }
-}    
-
