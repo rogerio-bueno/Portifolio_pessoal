@@ -52,7 +52,6 @@
     .skills__box {
         align-items: center;
         justify-content: space-around;
-        margin-bottom: 1rem;
         width: 40%;       
     }
 }    

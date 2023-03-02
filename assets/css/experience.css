@@ -107,5 +107,6 @@
 
     .experience__container__box__info {
       align-items: center;  
+      margin-left: 0;
     }
 }
